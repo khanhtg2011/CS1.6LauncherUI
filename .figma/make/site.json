@@ -1,0 +1,10 @@
+{
+  "description": "Provides a user-friendly interface for launching and managing Counter-Strike 1.6, enhancing game access and customization for players.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
